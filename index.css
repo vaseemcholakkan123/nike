@@ -361,7 +361,7 @@ a{
     background-color: rgb(97, 95, 95);
 }
  #body5{
-    overflow:hidden;
+    overflow:auto;
     white-space: nowrap;
     display: flex;
     flex-direction: row;
